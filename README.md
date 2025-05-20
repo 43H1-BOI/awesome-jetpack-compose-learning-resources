@@ -490,18 +490,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 [![Morning Minimise - Live Streams: Jetpack Compose Playlist on YouTube by hitherejoe_dev](http://img.youtube.com/vi/JQW1Ykzhfes/0.jpg)](http://www.youtube.com/watch?v=JQW1Ykzhfes "Morning Minimise - Live Streams: Jetpack Compose Playlist on YouTube by hitherejoe_dev")
 
-
-<br>
-
-### [MindOrks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
-
-- [Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI](https://www.youtube.com/watch?v=JdTtRkT03gY)
-
-<br>
-
-[![Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI](http://img.youtube.com/vi/JdTtRkT03gY/0.jpg)](http://www.youtube.com/watch?v=JdTtRkT03gY "Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI")
-
-
 <br>
 
 ### [Kotlin London](https://www.youtube.com/channel/UCv4-wxKsrlwh83KShW5QPwA)
